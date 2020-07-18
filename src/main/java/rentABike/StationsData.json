@@ -1,0 +1,17 @@
+{
+  "stations": [
+    {
+      "location":"Franz Jonas Platz 1, 1210 Wien",
+      "capacity": "5"
+    },
+    {
+      "location":"Swedenplatz 3, 1010 Wien",
+      "capacity": "10"
+    },
+    {
+      "location":"Praterstraße 50, 1020 Wien",
+      "capacity": "3"
+    }
+
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "password": "",
+      "surname": "de Varennes",
+      "name": "Sven Alexis",
+      "dateOfBirth": "01.09.88",
+      "email": "sven.v@gmail.com"
+    },
+    {
+      "password": "",
+      "surname": "Franta",
+      "name": "Amelie Sophie",
+      "dateOfBirth": "13.11.16",
+      "email": "amelie.f@gmail.com"
+    },
+    {
+      "password": "",
+      "surname": "Fuchs",
+      "name": "Patrick",
+      "dateOfBirth": "28.06.99",
+      "email": "patrick.f@gmail.com"
+    },
+    {
+      "password": "",
+      "surname": "Franta",
+      "name": "Claudia",
+      "dateOfBirth": "18.02.65",
+      "email": "claudia.f@gmx.at"
+    }
+
+
+  ]
+}
